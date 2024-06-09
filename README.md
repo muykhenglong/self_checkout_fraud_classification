@@ -1,5 +1,5 @@
 # self_checkout_fraud_classification
-
+## Overview
 This repository contains R scripts designed for detecting fraudulent transactions at retail self-checkout systems. It was developed as part of the DATA MINING CUP 2019 challenge, with the task detail could be found in file DATA-MINING-CUP-2019-task.pdf.
 
 ## Script Features
